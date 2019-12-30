@@ -1,0 +1,3 @@
+package failures.environmental
+
+trait UserRepositoryFailure
